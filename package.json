@@ -1,7 +1,7 @@
 {
   "name": "termproject",
   "version": "1.0.0",
-  "description": "Yerim's network term project",
+  "description": "Yerim's network term project using Websockets and WebRTC",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon"
